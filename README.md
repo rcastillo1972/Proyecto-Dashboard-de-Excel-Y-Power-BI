@@ -73,6 +73,6 @@ Transformar datos en decisiones. Los dashboards están orientados a:
 ¿Te interesa colaborar o saber más?  
 📧 [robertocc1972@gmail.com] 
 📧 [robertocc1972@hotmail.com] 
-🔗 [LinkedIn]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/robertocc1972/))
-🔗 [LinkedIn]([[https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/robertocc1972/)](https://www.youtube.com/@robertocastillocastillo1648))
+🔗 [YouTube](https://www.youtube.com/@robertocastillocastillo1648)
+🔗 [LinkedIn](https://www.linkedin.com/in/robertocc1972/)
 
