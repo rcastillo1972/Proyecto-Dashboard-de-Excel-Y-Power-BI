@@ -28,7 +28,7 @@ Transformar datos en decisiones. Los dashboards están orientados a:
 
 **🔧 Tecnologías:** Power BI, DAX, Power Query, Excel, Tablas Dinamica, modelado de relaciones  
 **💡 Valor agregado:** Insights accionables para líderes financieros
-
+🔗 [Dashboard Financiero](https://1drv.ms/x/c/6832f833484116ed/Ea4qdbp6OkBJqhjeqPvT3XkBLB0lk-SYcwiVelJOmJk08w?e=PlQThR&nav=MTVfe0ZCODJFQjE5LTE4QzYtNEEwNi1CMkI5LTMzNjY2NTFCODJDQX0)
 ---
 
 ### 🌍 Dashboard de Ventas Multipaís
@@ -39,6 +39,7 @@ Transformar datos en decisiones. Los dashboards están orientados a:
 
 **🔧 Tecnologías:** Power BI, DAX, Power Query, Excel, Tablas Dinamica, storytelling visual  
 **💡 Valor agregado:** Visión integral para decisiones regionales
+🔗 [Dashboard ventas](https://1drv.ms/x/c/6832f833484116ed/EbxeQlytNjpKtWOJ7y5Vr8sBY7G5RkRXDBLLKCTmvKG5PA?e=UjcJZt&nav=MTVfezU0Mjc1ODlBLUM1RDctNDE2Ni1BNTI5LTVERDE0MEExQjM3QX0)
 
 ---
 
@@ -50,6 +51,7 @@ Transformar datos en decisiones. Los dashboards están orientados a:
 
 **🔧 Tecnologías:** Power BI, DAX, Power Query, Excel, Tablas Dinamica, segmentación dinámica  
 **💡 Valor agregado:** Gestión estratégica del talento y políticas de inclusión
+🔗 [Dashboard RRHH](https://1drv.ms/x/c/6832f833484116ed/EX3JNUnuCHlFvwC9HnL3Ij0BqOzsAS5YubeCji2xI_hLSw?e=T7ckGZ&nav=MTVfezc5Q0RDREE2LUYxOUEtNDk3Ri04RTlFLUFGOUNCOUVBNDU1Qn0)
 
 ---
 
@@ -75,4 +77,7 @@ Transformar datos en decisiones. Los dashboards están orientados a:
 📧 [robertocc1972@hotmail.com] 
 🔗 [YouTube](https://www.youtube.com/@robertocastillocastillo1648)
 🔗 [LinkedIn](https://www.linkedin.com/in/robertocc1972/)
+
+
+
 
