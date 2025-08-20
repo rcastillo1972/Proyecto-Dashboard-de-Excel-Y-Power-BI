@@ -64,7 +64,7 @@ Transformar datos en decisiones. Los dashboards están orientados a:
 
 ## 👨‍💻 Sobre el autor
 
-**Roberto** es un analista híbrido con experiencia en desarrollo de software y análisis de datos. Combina precisión técnica con visión estratégica, creando soluciones que conectan con líderes de negocio. Su enfoque está en transformar datos en decisiones y comunicar valor con claridad.
+**Roberto Castillo Castillo** es un analista híbrido con experiencia en desarrollo de software y análisis de datos. Combina precisión técnica con visión estratégica, creando soluciones que conectan con líderes de negocio. Su enfoque está en transformar datos en decisiones y comunicar valor con claridad.
 
 ---
 
