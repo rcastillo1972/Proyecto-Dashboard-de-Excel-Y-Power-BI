@@ -28,6 +28,7 @@ Transformar datos en decisiones. Los dashboards están orientados a:
 
 **🔧 Tecnologías:** Power BI, DAX, Power Query, Excel, Tablas Dinamica, modelado de relaciones  
 **💡 Valor agregado:** Insights accionables para líderes financieros
+
 🔗 [Dashboard Financiero](https://1drv.ms/x/c/6832f833484116ed/Ea4qdbp6OkBJqhjeqPvT3XkBLB0lk-SYcwiVelJOmJk08w?e=PlQThR&nav=MTVfe0ZCODJFQjE5LTE4QzYtNEEwNi1CMkI5LTMzNjY2NTFCODJDQX0)
 ---
 
