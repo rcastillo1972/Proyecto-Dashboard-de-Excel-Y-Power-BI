@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+  <!-- Tabla de Productos -->
+  <productos>
+    <producto>
+      <id>1</id>
+      <nombre>Laptop HP Pavilion</nombre>
+      <descripcion>Laptop con procesador i5, 8GB RAM, 512GB SSD</descripcion>
+      <precio>899.99</precio>
+      <stock>45</stock>
+      <categoria>Computadoras</categoria>
+      <fecha_creacion>2025-01-15</fecha_creacion>
+    </producto>
+    <producto>
+      <id>2</id>
+      <nombre>Monitor Samsung 24"</nombre>
+      <descripcion>Monitor LED Full HD 1080p</descripcion>
+      <precio>199.99</precio>
+      <stock>78</stock>
+      <categoria>Monitores</categoria>
+      <fecha_creacion>2025-02-03</fecha_creacion>
+    </producto>
+    <producto>
+      <id>3</id>
+      <nombre>Teclado Mecánico Logitech</nombre>
+      <descripcion>Teclado mecánico RGB con switches Blue</descripcion>
+      <precio>129.99</precio>
+      <stock>32</stock>
+      <categoria>Periféricos</categoria>
+      <fecha_creacion>2025-01-28</fecha_creacion>
+    </producto>
+  </productos>
+
+  <!-- Tabla de Clientes -->
+  <clientes>
+    <cliente>
+      <id>101</id>
+      <nombre>María González</nombre>
+      <email>maria.gonzalez@email.com</email>
+      <telefono>555-123-4567</telefono>
+      <direccion>Calle Principal 123, Ciudad</direccion>
+      <fecha_registro>2024-11-10</fecha_registro>
+      <tipo>Premium</tipo>
+    </cliente>
+    <cliente>
+      <id>102</id>
+      <nombre>Juan Pérez</nombre>
+      <email>juan.perez@email.com</email>
+      <telefono>555-987-6543</telefono>
+      <direccion>Avenida Central 456, Ciudad</direccion>
+      <fecha_registro>2024-12-05</fecha_registro>
+      <tipo>Regular</tipo>
+    </cliente>
+    <cliente>
+      <id>103</id>
+      <nombre>Ana Martínez</nombre>
+      <email>ana.martinez@email.com</email>
+      <telefono>555-567-8901</telefono>
+      <direccion>Plaza Mayor 789, Ciudad</direccion>
+      <fecha_registro>2025-01-20</fecha_registro>
+      <tipo>Premium</tipo>
+    </cliente>
+  </clientes>
+
+  <!-- Tabla de Ventas -->
+  <ventas>
+    <venta>
+      <id>1001</id>
+      <cliente_id>101</cliente_id>
+      <fecha>2025-02-15</fecha>
+      <total>1129.98</total>
+      <metodo_pago>Tarjeta de crédito</metodo_pago>
+      <estado>Completada</estado>
+      <detalles>
+        <detalle>
+          <producto_id>1</producto_id>
+          <cantidad>1</cantidad>
+          <precio_unitario>899.99</precio_unitario>
+          <subtotal>899.99</subtotal>
+        </detalle>
+        <detalle>
+          <producto_id>3</producto_id>
+          <cantidad>2</cantidad>
+          <precio_unitario>129.99</precio_unitario>
+          <subtotal>259.98</subtotal>
+        </detalle>
+      </detalles>
+    </venta>
+    <venta>
+      <id>1002</id>
+      <cliente_id>102</cliente_id>
+      <fecha>2025-02-20</fecha>
+      <total>199.99</total>
+      <metodo_pago>PayPal</metodo_pago>
+      <estado>Enviada</estado>
+      <detalles>
+        <detalle>
+          <producto_id>2</producto_id>
+          <cantidad>1</cantidad>
+          <precio_unitario>199.99</precio_unitario>
+          <subtotal>199.99</subtotal>
+        </detalle>
+      </detalles>
+    </venta>
+    <venta>
+      <id>1003</id>
+      <cliente_id>103</cliente_id>
+      <fecha>2025-03-05</fecha>
+      <total>1029.98</total>
+      <metodo_pago>Transferencia bancaria</metodo_pago>
+      <estado>Pendiente</estado>
+      <detalles>
+        <detalle>
+          <producto_id>1</producto_id>
+          <cantidad>1</cantidad>
+          <precio_unitario>899.99</precio_unitario>
+          <subtotal>899.99</subtotal>
+        </detalle>
+        <detalle>
+          <producto_id>3</producto_id>
+          <cantidad>1</cantidad>
+          <precio_unitario>129.99</precio_unitario>
+          <subtotal>129.99</subtotal>
+        </detalle>
+      </detalles>
+    </venta>
+  </ventas>
+</database>

@@ -1,0 +1,124 @@
+{
+  "database": {
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Laptop HP Pavilion",
+        "descripcion": "Laptop con procesador i5, 8GB RAM, 512GB SSD",
+        "precio": 899.99,
+        "stock": 45,
+        "categoria": "Computadoras",
+        "fecha_creacion": "2025-01-15"
+      },
+      {
+        "id": 2,
+        "nombre": "Monitor Samsung 24\"",
+        "descripcion": "Monitor LED Full HD 1080p",
+        "precio": 199.99,
+        "stock": 78,
+        "categoria": "Monitores",
+        "fecha_creacion": "2025-02-03"
+      },
+      {
+        "id": 3,
+        "nombre": "Teclado Mecánico Logitech",
+        "descripcion": "Teclado mecánico RGB con switches Blue",
+        "precio": 129.99,
+        "stock": 32,
+        "categoria": "Periféricos",
+        "fecha_creacion": "2025-01-28"
+      }
+    ],
+    "clientes": [
+      {
+        "id": 101,
+        "nombre": "María González",
+        "email": "maria.gonzalez@email.com",
+        "telefono": "555-123-4567",
+        "direccion": "Calle Principal 123, Ciudad",
+        "fecha_registro": "2024-11-10",
+        "tipo": "Premium"
+      },
+      {
+        "id": 102,
+        "nombre": "Juan Pérez",
+        "email": "juan.perez@email.com",
+        "telefono": "555-987-6543",
+        "direccion": "Avenida Central 456, Ciudad",
+        "fecha_registro": "2024-12-05",
+        "tipo": "Regular"
+      },
+      {
+        "id": 103,
+        "nombre": "Ana Martínez",
+        "email": "ana.martinez@email.com",
+        "telefono": "555-567-8901",
+        "direccion": "Plaza Mayor 789, Ciudad",
+        "fecha_registro": "2025-01-20",
+        "tipo": "Premium"
+      }
+    ],
+    "ventas": [
+      {
+        "id": 1001,
+        "cliente_id": 101,
+        "fecha": "2025-02-15",
+        "total": 1129.98,
+        "metodo_pago": "Tarjeta de crédito",
+        "estado": "Completada",
+        "detalles": [
+          {
+            "producto_id": 1,
+            "cantidad": 1,
+            "precio_unitario": 899.99,
+            "subtotal": 899.99
+          },
+          {
+            "producto_id": 3,
+            "cantidad": 2,
+            "precio_unitario": 129.99,
+            "subtotal": 259.98
+          }
+        ]
+      },
+      {
+        "id": 1002,
+        "cliente_id": 102,
+        "fecha": "2025-02-20",
+        "total": 199.99,
+        "metodo_pago": "PayPal",
+        "estado": "Enviada",
+        "detalles": [
+          {
+            "producto_id": 2,
+            "cantidad": 1,
+            "precio_unitario": 199.99,
+            "subtotal": 199.99
+          }
+        ]
+      },
+      {
+        "id": 1003,
+        "cliente_id": 103,
+        "fecha": "2025-03-05",
+        "total": 1029.98,
+        "metodo_pago": "Transferencia bancaria",
+        "estado": "Pendiente",
+        "detalles": [
+          {
+            "producto_id": 1,
+            "cantidad": 1,
+            "precio_unitario": 899.99,
+            "subtotal": 899.99
+          },
+          {
+            "producto_id": 3,
+            "cantidad": 1,
+            "precio_unitario": 129.99,
+            "subtotal": 129.99
+          }
+        ]
+      }
+    ]
+  }
+}
